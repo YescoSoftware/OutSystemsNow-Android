@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.outsystems.android" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="com.outsystems.android" version="0.0.1" xmlns="http://www.w3.org/ns/widgets">
     <preference name="loglevel" value="DEBUG" />
     <preference name="AndroidLaunchMode" value="singleTop" />
     <feature name="App">
@@ -63,6 +63,6 @@
         <param name="android-package" value="io.liteglue.SQLitePlugin" />
     </feature>
     <feature name="FileChooser">
-        <param name="android-package" value="com.outsystems.plugins.filechooser.FileChooser" />
+        <param name="android-package" value="com.yesco.plugins.filechooser.FileChooser" />
     </feature>
 </widget>
