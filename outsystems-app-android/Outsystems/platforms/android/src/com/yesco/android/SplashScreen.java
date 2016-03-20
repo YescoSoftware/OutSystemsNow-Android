@@ -22,7 +22,7 @@ import android.webkit.CookieSyncManager;
 import android.widget.ImageView;
 
 import com.arellomobile.android.push.PushManager;
-import com.outsystems.android.R;
+import com.yesco.android.R;
 import com.yesco.android.core.DatabaseHandler;
 import com.yesco.android.core.EventLogger;
 import com.yesco.android.helpers.ApplicationSettingsController;

@@ -11,7 +11,7 @@ import android.webkit.WebView;
 
 import com.yesco.android.ApplicationOutsystems;
 import com.yesco.android.ApplicationsActivity;
-import com.outsystems.android.R;
+import com.yesco.android.R;
 import com.yesco.android.WebApplicationActivity;
 import com.yesco.android.core.DatabaseHandler;
 import com.yesco.android.core.EventLogger;

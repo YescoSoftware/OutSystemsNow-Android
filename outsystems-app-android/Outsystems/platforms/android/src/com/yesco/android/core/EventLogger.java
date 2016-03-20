@@ -9,7 +9,7 @@ package com.yesco.android.core;
 
 import android.util.Log;
 
-import com.outsystems.android.BuildConfig;
+import com.yesco.android.BuildConfig;
 
 /**
  * Class description.

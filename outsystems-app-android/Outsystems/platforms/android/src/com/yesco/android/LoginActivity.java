@@ -28,7 +28,7 @@ import android.widget.EditText;
 import android.widget.ProgressBar;
 import android.widget.TextView;
 
-import com.outsystems.android.R;
+import com.yesco.android.R;
 import com.yesco.android.core.DatabaseHandler;
 import com.yesco.android.core.EventLogger;
 import com.yesco.android.core.WSRequestHandler;

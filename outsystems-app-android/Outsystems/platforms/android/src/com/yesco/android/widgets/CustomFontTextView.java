@@ -13,7 +13,7 @@ import android.graphics.Typeface;
 import android.util.AttributeSet;
 import android.widget.TextView;
 
-import com.outsystems.android.R;
+import com.yesco.android.R;
 
 /**
  * Class description.

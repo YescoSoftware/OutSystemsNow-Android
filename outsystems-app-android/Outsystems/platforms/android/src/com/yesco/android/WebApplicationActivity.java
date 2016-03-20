@@ -53,7 +53,7 @@ import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.ProgressBar;
 
-import com.outsystems.android.R;
+import com.yesco.android.R;
 import com.yesco.android.core.CordovaLoaderWebClient;
 import com.yesco.android.core.CordovaWebViewActivity;
 import com.yesco.android.core.CordovaWebViewChromeClient;

@@ -148,6 +148,7 @@
                 <com.yesco.android.widgets.CustomFontButton
                     android:id="@+id/button_demo"
                     style="@style/Widget.Button"
+                    android:visibility="invisible"
                     android:layout_width="180dp"
                     android:layout_height="wrap_content"
                     android:layout_marginBottom="20dp"

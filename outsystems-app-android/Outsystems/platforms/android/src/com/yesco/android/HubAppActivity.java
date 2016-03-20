@@ -27,7 +27,7 @@ import android.widget.ImageButton;
 import android.widget.LinearLayout;
 import android.widget.ProgressBar;
 
-import com.outsystems.android.R;
+import com.yesco.android.R;
 import com.yesco.android.core.DatabaseHandler;
 import com.yesco.android.core.EventLogger;
 import com.yesco.android.core.WSRequestHandler;

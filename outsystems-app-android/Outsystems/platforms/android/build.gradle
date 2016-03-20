@@ -15,6 +15,8 @@ android {
 
     defaultConfig{
 
+        applicationId "com.yesco.android"
+
         if (project.hasProperty('APPLICATION_ID') && !((String)APPLICATION_ID).isEmpty()) {
             applicationId APPLICATION_ID
         }

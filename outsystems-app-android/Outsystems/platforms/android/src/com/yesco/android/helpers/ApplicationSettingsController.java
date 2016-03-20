@@ -8,7 +8,7 @@ import com.google.gson.Gson;
 import com.yesco.android.ApplicationsActivity;
 import com.yesco.android.HubAppActivity;
 import com.yesco.android.LoginActivity;
-import com.outsystems.android.R;
+import com.yesco.android.R;
 import com.yesco.android.WebApplicationActivity;
 import com.yesco.android.core.DatabaseHandler;
 import com.yesco.android.model.AppSettings;

@@ -33,7 +33,7 @@ import android.widget.AdapterView.OnItemClickListener;
 import android.widget.GridView;
 import android.widget.TextView;
 
-import com.outsystems.android.R;
+import com.yesco.android.R;
 import com.yesco.android.adapters.ApplicationsAdapter;
 import com.yesco.android.core.WSRequestHandler;
 import com.yesco.android.core.WebServicesClient;

@@ -35,7 +35,7 @@ import android.widget.TextView;
 import com.arellomobile.android.push.BasePushMessageReceiver;
 import com.arellomobile.android.push.PushManager;
 import com.arellomobile.android.push.utils.RegisterBroadcastReceiver;
-import com.outsystems.android.R;
+import com.yesco.android.R;
 import com.yesco.android.core.EventLogger;
 import com.yesco.android.core.WSRequestHandler;
 import com.yesco.android.core.WebServicesClient;
